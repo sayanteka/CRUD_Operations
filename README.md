@@ -26,4 +26,18 @@ Faster Ram faster processing speed.
 single tenant apps are available in where they are registered. multi-tenant are available to users in both their home and other tenants.
 For company users, tenant=company name. To add any individual add in azure active directory.
 # apache kafka
+<img width="437" alt="image" src="https://github.com/sayanteka/CRUD_Operations/assets/66312084/bdec407f-c9c0-4e37-b9a8-c5800d1aef3d">
+https://www.youtube.com/watch?v=KerNf0NANMo
+kafka=real time data processing
+prodcer-kafkaserver-consumer
+
+<img width="567" alt="image" src="https://github.com/sayanteka/CRUD_Operations/assets/66312084/dba46743-4638-48fc-8137-2991cc53ff90">
+
+<img width="608" alt="image" src="https://github.com/sayanteka/CRUD_Operations/assets/66312084/f1f235be-9578-466e-b9c1-48280b04997b">
+
+<img width="512" alt="image" src="https://github.com/sayanteka/CRUD_Operations/assets/66312084/647b7280-99c1-424c-8291-aabd7ca49ec5">
+
+
+
+
 
