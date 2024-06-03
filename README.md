@@ -35,6 +35,12 @@ prodcer-kafkaserver-consumer
 
 <img width="608" alt="image" src="https://github.com/sayanteka/CRUD_Operations/assets/66312084/f1f235be-9578-466e-b9c1-48280b04997b">
 
+
+#single tenant vs multiple tenant
+
+![Uploading image.png…]()
+
+
 <img width="512" alt="image" src="https://github.com/sayanteka/CRUD_Operations/assets/66312084/647b7280-99c1-424c-8291-aabd7ca49ec5">
 
 
